@@ -50,4 +50,4 @@ Você pode acessar o projeto clicando [aqui](https://jogo-do-numero-secreto-whea
 <a href = "https://cursos.alura.com.br/user/victorvicmr"><img alt="Static Badge" src="https://img.shields.io/badge/Alura-0?style=for-the-badge&color=%23100D36"></a>
 <a href = "https://cursos.alura.com.br/course/logica-programacao-funcoes-listas"><img alt = "Static Badge" src = "https://img.shields.io/badge/L%C3%B3gica%20de%20programa%C3%A7%C3%A3o%3A%20explore%20fun%C3%A7%C3%B5es%20e%20listas-0?style=for-the-badge&label=Curso&color=%23D98989"></a>
 
-🇧🇷 - 2026
+🇧🇷 - 2024
