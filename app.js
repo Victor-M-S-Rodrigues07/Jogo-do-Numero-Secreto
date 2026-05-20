@@ -89,18 +89,4 @@ function reiniciarJogo() {
     tentativas = 1;
     exibirMensagemInicial();
     document.getElementById("reiniciar").setAttribute("disabled", true);
-
 }
-//Case Sensitive = Diferencia maiúsculas e minúsculas
-// Boa prática: Nomenclatura importa; evitar repetições
-// Trecho de código que executa uma ação
-// Funções precisam de ()
-// .value
-// getElementById()
-// HTML não aceita template strings
-// setAttribute and removeAttribute
-// Array = Lista [Iíndice é a posição do elemento sempre no 0
-//Length
-//.includes = se está na lista; Tudo que é muito comum pode ter soluções já propostas
-// adiciona elementos ao final da lista
-//Recursão = se já está na lista
