@@ -11,7 +11,7 @@
 - [🎯 Objetivos da Aprendizagem](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#-acesso-ao-projeto)
 - [💻 Tecnologias Utilizadas](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#--objetivos-da-aprendizagem-)
 - [⚙ Funcionalidades](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#--funcionalidades-)
-- [📂 Estrutura do Projeto](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#--estrutura-do-projeto)
+- [📂 Estrutura do Projeto](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#-estrutura-do-projeto)
 - [✨ Autor do Projeto](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#autor-do-projeto)
 
 ## <h2> 📝 Descrição do Projeto </h2>
