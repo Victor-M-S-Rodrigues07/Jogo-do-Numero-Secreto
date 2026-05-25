@@ -6,12 +6,13 @@
 
 ## 🗂 Sumário
 
-- [Descrição do Projeto](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#--descri%C3%A7%C3%A3o-do-projeto-)
-- [Acesso ao Projeto](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#-acesso-ao-projeto)
-- [Objetivos da Aprendizagem](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#-acesso-ao-projeto)
-- [Tecnologias Utilizadas](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#--objetivos-da-aprendizagem-)
-- [Funcionalidades](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#--funcionalidades-)
-- [Autor do Projeto](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#autor-do-projeto)
+- [📝 Descrição do Projeto](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#--descri%C3%A7%C3%A3o-do-projeto-)
+- [📂 Acesso ao Projeto](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#-acesso-ao-projeto)
+- [🎯 Objetivos da Aprendizagem](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#-acesso-ao-projeto)
+- [💻 Tecnologias Utilizadas](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#--objetivos-da-aprendizagem-)
+- [⚙ Funcionalidades](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#--funcionalidades-)
+- [📂Estrutura do Projeto](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#estrutura-do-projeto)
+- [✨ Autor do Projeto](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#autor-do-projeto)
 
 ## <h2> 📝 Descrição do Projeto </h2>
 
@@ -49,7 +50,7 @@ Você pode acessar o projeto clicando [aqui](https://jogo-do-numero-secreto-whea
 - Dicas para saber se o número é maior ou menor que a tentatica através de comparações, garantindo diversão sem comprometer a experiência.
 <br>
 
-## 📂Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
 ```
 /img
