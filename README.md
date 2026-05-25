@@ -4,6 +4,15 @@
 
 ### <h3> Status do Projeto: Concluído ✔ </h3>
 
+## 🗂 Sumário
+
+- [Descrição do Projeto](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#--descri%C3%A7%C3%A3o-do-projeto-)
+- [Acesso ao Projeto](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#-acesso-ao-projeto)
+- [Objetivos da Aprendizagem](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#-acesso-ao-projeto)
+- [Tecnologias Utilizadas](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#--objetivos-da-aprendizagem-)
+- [Funcionalidades](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#--funcionalidades-)
+- [Autor do Projeto](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto--Projeto-N2-2024#autor-do-projeto)
+
 ## <h2> 📝 Descrição do Projeto </h2>
 
 Esta aplicação contém o Jogo do Número Secreto, onde o usuário precisa descobrir o número aleatório escolhido pela máquina. O computador fornecerá dicas se o chute realizado é menor ou maior que a resposta. O usuário ganha quando insere o número correto. Ao final, o jogador poderá ver quantas tentativas foram usadas.<br>
@@ -39,6 +48,18 @@ Você pode acessar o projeto clicando [aqui](https://jogo-do-numero-secreto-whea
 - Textos informativos criados pelo JavaScript ao clique dos botões disponíveis na página;
 - Dicas para saber se o número é maior ou menor que a tentatica através de comparações, garantindo diversão sem comprometer a experiência.
 <br>
+
+## 📂Estrutura do Projeto
+
+```
+/img
+
+.gitignore
+README.md
+app.js
+index.html
+style.css
+```
 
 ## ✨Autor do Projeto
 
